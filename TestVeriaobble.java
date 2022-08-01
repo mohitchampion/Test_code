@@ -6,7 +6,7 @@ public class TestVeriable {
 	
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 	TestVeriable ob=new TestVeriable();
 	System.out.println(ob.a+ob.b+ob.c+d+e);
 	ob.a=ob.b+d;
@@ -20,6 +20,7 @@ public class TestVeriable {
 	System.out.println(ob1.a+ob1.b+ob1.c+d+e);
 	TestVeriable ob2=new TestVeriable();
 	System.out.println(ob2.a+ob2.b+ob2.c+d+e);
+		System.out.println("mohit")
 	
 
 	}
